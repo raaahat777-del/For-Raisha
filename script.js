@@ -19,21 +19,41 @@ reminder:"You make ordinary days special."
 },
 
 
-"2026-07-15": {
+"2026-07-17": {
 
-mission:"Find something today that makes you smile.",
+  mission: "Today, do one thing that makes you genuinely smile. I hope that smile stays with you all day.",
 
-letter:"I hope your day is filled with happiness.",
+  letter: "No matter where life takes us, I hope you always remember that there will always be someone quietly cheering for you, believing in you, and loving you with all his heart.",
 
-photo:"images/memory2.jpeg",
+  photo: "images/memory4.jpeg",
 
-memoryCaption:"Another memory that makes me smile.",
+  memoryCaption: "YOU GAVE ME A NEW NICKNAME.",
 
-song:"A song chosen for you.",
+  song: "Apna Bana Le",
 
-spotify:"https://open.spotify.com/embed/track/3oTuTpF1F3A7rEC6RKsMRz",
+  spotify: "https://open.spotify.com/embed/track/0mflMxspEfB0VbI1kyLiAv",
 
-reminder:"You are very special."
+  reminder: "I hope today treats you gently. You deserve every happiness."
+
+},
+
+"2026-07-18": {
+
+  mission: "Take a few minutes today to appreciate yourself. You're stronger, kinder, and more amazing than you realize.",
+
+  letter: "If I could give you one thing today, it would be the ability to see yourself through my eyes. You'd finally understand how truly special you are.",
+
+  photo: "images/memory5.jpeg",
+
+  memoryCaption: "I still remember the time when I walked miles to wrote you name on the map."
+  song: "Señorita",
+
+  spotify: "https://open.spotify.com/embed/track/0TK2YIli7K1leLovkQiNik",
+
+  reminder: "Thank you for being you. That's more than enough."
+
+},
+
 
 }
 
