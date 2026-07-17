@@ -55,8 +55,6 @@ reminder:"You make ordinary days special."
 },
 
 
-}
-
 };
 
 
