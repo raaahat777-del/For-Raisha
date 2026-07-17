@@ -56,21 +56,35 @@ const dailyContent = {
 
 };
 
+// ---------- DATE (OMAN TIME) ----------
 
-const omanTime = new Date().toLocaleString("en-US", {
-  timeZone: "Asia/Muscat"
-});
+const now = new Date();
 
-const today = new Date(omanTime).toISOString().split("T")[0];
+const dateParts = new Intl.DateTimeFormat("en-US", {
+  timeZone: "Asia/Muscat",
+  year: "numeric",
+  month: "2-digit",
+  day: "2-digit"
+}).formatToParts(now);
 
-const todayContent = dailyContent[today] || dailyContent["2026-07-13"];
+const year = dateParts.find(p => p.type === "year").value;
+const month = dateParts.find(p => p.type === "month").value;
+const day = dateParts.find(p => p.type === "day").value;
 
-const displayDate = new Date(omanTime).toLocaleDateString("en-US", {
+const today = `${year}-${month}-${day}`;
+
+const todayContent =
+  dailyContent[today] || dailyContent["2026-07-13"];
+
+const displayDate = new Intl.DateTimeFormat("en-US", {
+  timeZone: "Asia/Muscat",
   weekday: "long",
   year: "numeric",
   month: "long",
   day: "numeric"
-});
+}).format(now);
+
+// ---------- BUTTON ----------
 
 document.getElementById("enterButton").addEventListener("click", function () {
 
@@ -85,16 +99,23 @@ document.getElementById("enterButton").addEventListener("click", function () {
     <p class="date-text">${displayDate}</p>
 
     <div class="gift-section">
+
       <h2>🌅 Today's Mission</h2>
+
       <p>${todayContent.mission}</p>
+
     </div>
 
     <div class="gift-section">
+
       <h2>💌 Today's Letter</h2>
+
       <p>${todayContent.letter}</p>
+
     </div>
 
     <div class="gift-section">
+
       <h2>📸 Today's Memory</h2>
 
       <img
