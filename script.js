@@ -30,7 +30,7 @@ const dailyContent = {
 
     song: "Apna Bana Le",
 
-    spotify: "https://open.spotify.com/embed/track/0mflMxspEfB0VbI1kyLiAv",
+    spotify: "https://open.spotify.com/embed/track/1UTzknFnMdtH3morV6o1hA",
 
     reminder: "I hope today treats you gently. You deserve every happiness."
 
@@ -48,7 +48,7 @@ const dailyContent = {
 
     song: "Señorita",
 
-    spotify: "https://open.spotify.com/embed/track/0TK2YIli7K1leLovkQiNik",
+    spotify: "https://open.spotify.com/embed/track/20quS38YODXJjqhSgM05lT",
 
     reminder: "Thank you for being you. That's more than enough."
 
