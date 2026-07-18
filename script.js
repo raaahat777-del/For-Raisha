@@ -16,23 +16,7 @@ const dailyContent = {
 
     reminder: "You make ordinary days special."
 
-  },
-
-  "2026-07-17": {
-
-    mission: "Today, do one thing that makes you genuinely smile. I hope that smile stays with you all day.",
-
-    letter: "No matter where life takes us, I hope you always remember that there will always be someone quietly cheering for you, believing in you, and loving you with all his heart.",
-
-    photo: "images/memory4.jpeg",
-
-    memoryCaption: "You gave me a new nickname.",
-
-    song: "Apna Bana Le",
-
-    spotify: "https://open.spotify.com/embed/track/1UTzknFnMdtH3morV6o1hA",
-
-    reminder: "I hope today treats you gently. You deserve every happiness."
+ 
 
   },
 
@@ -52,7 +36,28 @@ const dailyContent = {
 
     reminder: "Thank you for being you. That's more than enough."
 
-  }
+  },
+    
+"2026-07-19": {
+
+  mission: "Take a deep breath tonight and look at the moon for a minute. No matter how far apart we are, we'll be looking at the same sky.",
+
+  letter: "Some people come into our lives quietly and somehow become our favorite place to return to. You are that place for me. Thank you for making ordinary days feel extraordinary. I hope whenever you read this, you remember that someone is thinking about you, wishing you happiness, and loving you from miles away.",
+
+  photo: "images/memory6.jpeg",
+
+  memoryCaption: "Thank youuuuuuuuuuu",
+
+  song: "Dil Diyan Gallan - Atif Aslam",
+
+  spotify: "https://open.spotify.com/embed/track/6gpkOWLP5GJxKXN0VlhJpU",
+
+  reminder: "No matter how busy life gets, you'll always have a special place in my heart."
+  
+
+  
+},
+  
 
 };
 
