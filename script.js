@@ -50,7 +50,7 @@ const dailyContent = {
 
   song: "Dil Diyan Gallan - Atif Aslam",
 
-  spotify: "https://open.spotify.com/embed/track/6gpkOWLP5GJxKXN0VlhJpU",
+  spotify: "https://open.spotify.com/embed/track/5MnAi6ZF7cE8pAz7wYr9Ta",
 
   reminder: "No matter how busy life gets, you'll always have a special place in my heart."
   
