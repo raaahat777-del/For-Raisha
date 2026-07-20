@@ -20,45 +20,41 @@ const dailyContent = {
 
   },
 
-  "2026-07-18": {
+  "2026-07-20": {
 
-    mission: "Take a few minutes today to appreciate yourself. You're stronger, kinder, and more amazing than you realize.",
+  mission: "Today, promise me you'll take care of yourself, even if I'm not there to remind you every minute.",
 
-    letter: "If I could give you one thing today, it would be the ability to see yourself through my eyes. You'd finally understand how truly special you are.",
+  letter: "I know I hurt you, and I wish I could take those moments back. If I could, I'd choose your smile over being right every single time. You deserve love that feels safe, gentle, and comforting. I'm still learning, but I promise I'm trying because you are worth every effort. Thank you for staying, even on the days when I make it difficult. I love you more than my mistakes could ever describe.",
 
-    photo: "images/memory5.jpeg",
+  photo: "images/memory7.jpeg",
 
-    memoryCaption: "I still remember the time when I walked miles to write your name on the map.",
+  memoryCaption: "I never want my actions to make you doubt how deeply I love you.",
 
-    song: "Señorita",
+  song: "Faasle",
 
-    spotify: "https://open.spotify.com/embed/track/20quS38YODXJjqhSgM05lT",
+  spotify: "https://open.spotify.com/embed/track/6YNl1rXbhKvmbMrw9cp3RQ",
 
-    reminder: "Thank you for being you. That's more than enough."
+  reminder: "If your heart feels heavy today because of me, I hope tomorrow I'm able to make it lighter."
 
-  },
-    
-"2026-07-19": {
-
-  mission: "Take a deep breath tonight and look at the moon for a minute. No matter how far apart we are, we'll be looking at the same sky.",
-
-  letter: "Some people come into our lives quietly and somehow become our favorite place to return to. You are that place for me. Thank you for making ordinary days feel extraordinary. I hope whenever you read this, you remember that someone is thinking about you, wishing you happiness, and loving you from miles away.",
-
-  photo: "images/memory6.jpeg",
-
-  memoryCaption: "Thank youuuuuuuuuuu",
-
-  song: "Dil Diyan Gallan - Atif Aslam",
-
-  spotify: "https://open.spotify.com/embed/track/5MnAi6ZF7cE8pAz7wYr9Ta",
-
-  reminder: "No matter how busy life gets, you'll always have a special place in my heart."
-  
-
-  
 },
   
+"2026-07-21": {
 
+  mission: "Find one little thing today that reminds you of us, and smile for just a second.",
+
+  letter: "Every new day with you feels like another chance to love you a little better than yesterday. I know we're not perfect, but I don't want perfection—I want us. I want all the little conversations, the silly jokes, the quiet moments, and even the difficult days, because they're all part of our story. No matter what happens, I hope you always remember that meeting you has been one of the most beautiful things that ever happened to me.",
+
+  photo: "images/memory8.jpeg",
+
+  memoryCaption: "Every chapter with you becomes my favorite memory.",
+
+  song: "Apna Bana Le - Arijit Singh",
+
+  spotify: "https://open.spotify.com/embed/track/1UTzknFnMdtH3morV6o1hA",
+
+  reminder: "I choose you today, tomorrow, and every day after."
+
+},
 };
 
 // ---------- DATE (OMAN TIME) ----------
