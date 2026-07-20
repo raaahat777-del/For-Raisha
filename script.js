@@ -46,7 +46,7 @@ const dailyContent = {
 
   photo: "images/memory8.jpeg",
 
-  memoryCaption: "Every chapter with you becomes my favorite memory.",
+  memoryCaption: "prettiestttt girl in the worldddd.",
 
   song: "Apna Bana Le - Arijit Singh",
 
